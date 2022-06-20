@@ -4,9 +4,9 @@
 ## Laravel Boilerplate
 
 ### Clone this Project
-    git clone https://github.com/bmtamim/boilerplate.git
+    git clone https://github.com/bmtamim/boilerplate.git your-project-name
 #### Goto project directory
-    cd boilerplate
+    cd your-project-name
 ### Install dependencies
     composer install
 
